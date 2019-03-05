@@ -1,2 +1,0 @@
-# ThePlaceApartments
-Created with CodeSandbox
